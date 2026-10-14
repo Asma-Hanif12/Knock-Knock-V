@@ -59,3 +59,10 @@ Knock Knock V brings social networking, messaging, and communities together in o
 - Personalized content feed
 - Secure privacy controls
 - Scalable social platform
+
+## 📲 App Store
+
+Download on the App Store:
+https://apps.apple.com/gh/app/knock-knock-v/id6474127476
+
+<img width="1119" height="464" alt="Screenshot 2026-09-16 144505" src="https://github.com/user-attachments/assets/0dbfc4fd-9837-4c10-8e1f-1aef5addb1eb" />
